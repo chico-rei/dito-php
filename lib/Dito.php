@@ -156,7 +156,7 @@ class Dito {
   function generateIDAndIDType($options = array()){
     if(isset($options['reference'])){
       $id = $options['reference'];
-      $idType = nil;
+      $idType = 'nil';
     }
     else if(isset($options['facebook_id'])){
       $id = $options['facebook_id'];
