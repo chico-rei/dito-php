@@ -1,5 +1,5 @@
 {
-  "name": "dito/dito-php",
+  "name": "chico-rei/dito-php",
   "description": "Esse pacote tem como objetivo automatizar a integração com a Rest API da Dito.",
   "homepage": "http://developers.dito.com.br/docs/sdks/php",
   "license": "MIT",
